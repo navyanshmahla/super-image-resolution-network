@@ -1,15 +1,4 @@
 
-"""
-Single Image Super-Resolution Using SRGAN
-
-Original paper: https://arxiv.org/pdf/1609.04802.pdf
-
-
-All images resized to 128x128 to represent HR and 32x32 to represent LR.
-
-"""
-
-
 import os
 import cv2
 import numpy as np
